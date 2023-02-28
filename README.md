@@ -18,6 +18,17 @@ While ChatGPT is primarily a language tool, it has shown the ability to deliver 
 
 Our interactive session will explore how to empower students to ask better questions and how to communicate productively with AI. We will use ChatGPT to respond to audience-generated questions, generate code, and incorporate it into GeoGebra sketches. By the end of the session, participants will have a better understanding of ChatGPT's strengths and limitations, know how to engage ChatGPT to generate productive output, and have ideas for incorporating ChatGPT in their classrooms.
 
+# OCTM 2023 Draft
+An algebraist (Zheng Yang) and a mathematics educator (Todd Edwards) explore classic mathematics tasks (e.g., Lewis Carroll's Cats and Rats Problem) using ChatGPT. In the session, Zheng and Todd discuss the importance of asking questions---with an emphasis on those that generate useful responses from the AI. Throughout the session, participants engage ChatGPT as a learning partner---solving mathematics tasks, generating code for GeoGebra sketches, and brainstorming ways to help students communicate more effectively with AI.
+
+What will participants learn from your presentation about building an inclusive mathematical community in their own classroom? *
+
+They will learn that language lies at the center of AI-enhanced mathematics instruction and that the English-centric nature of chatbots (such as ChatGPT) may disadvantage students from marginalized populations (e.g., special education, ELLs). Zheng will discuss this from his own experience as an ELL student.
+
+How will your session be interactive for participants? How will the participants be engaged? *
+
+In our interactive session, we'll discuss the importance of asking more and better questions that elicit productive responses from the AI. As we engage ChatGPT as a learning partner, we'll ask ChatGPT to respond to audience-generated questions, and we'll generate code and incorporate it in sample GeoGebra sketches. As a group, we'll brainstorm ways to help students communicate more effectively with AI productively.
+
 # ChatGPT
 This repository contains prompts for use with ChatGPT when exploring mathematics content.
 We want to look for ways to use GPT and its variants to help us better understand mathematics.
