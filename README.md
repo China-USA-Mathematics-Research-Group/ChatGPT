@@ -1,3 +1,7 @@
+# CHATGPT+GeoGebra Video (Nice ideas!)
+Youtube link: https://www.youtube.com/watch?v=n8P0SaOvKhM
+Local link: https://user-images.githubusercontent.com/124541337/223581286-c4542f9b-ab4d-47b2-85bb-ff9ff320ed99.mp4
+
 # DRAFT PROPOSAL FOR AMS REGIONAL---FRESNO, CA
 Title: ChatGPT or ChatGPA? Exploring the role of AI in problem-solving and posing
 
