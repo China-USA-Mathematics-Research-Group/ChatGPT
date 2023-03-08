@@ -1,9 +1,9 @@
 # CHATGPT+GeoGebra Video (Nice ideas!)
 Rather than generating GeoGebra code with ChatGPT, I think a more realistic use of the software is to open GeoGebra next to ChatGPT and ask ChatGPT to provide GeoGebra steps to help explain concepts. For instance, I had a very engaging time tonight asking ChatGPT to explain slope to me using GeoGebra. As I use the tool, I can't help feeling that I'm talking to a precocious child who needs help explaining. We literally need to teach ChatGPT how to talk to students ("slow down!" "One step at a time, please."). Fascinating stuff.
 
-Youtube link: https://www.youtube.com/watch?v=n8P0SaOvKhM
+Youtube link: https://www.youtube.com/watch?v=n8P0SaOvKhM (loads VERY slowly)
 
-Local link: https://user-images.githubusercontent.com/124541337/223581286-c4542f9b-ab4d-47b2-85bb-ff9ff320ed99.mp4
+Local link: https://user-images.githubusercontent.com/124541337/223581286-c4542f9b-ab4d-47b2-85bb-ff9ff320ed99.mp4 (loads fast, but might require VPN)
 
 # DRAFT PROPOSAL FOR AMS REGIONAL---FRESNO, CA
 Title: ChatGPT or ChatGPA? Exploring the role of AI in problem-solving and posing
