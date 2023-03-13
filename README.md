@@ -1,3 +1,6 @@
+# Remarkable Quote (from Sunday, March 12 NY Times)
+In 2018, Sundar Pichai, the chief executive of Google — and not one of the tech executives known for overstatement — said, “A.I. is probably the most important thing humanity has ever worked on. I think of it as something more profound than electricity or fire.”
+
 # CHATGPT+GeoGebra Video (Nice ideas!)
 Rather than generating GeoGebra code with ChatGPT, I think a more realistic use of the software is to open GeoGebra next to ChatGPT and ask ChatGPT to provide GeoGebra steps to help explain concepts. For instance, I had a very engaging time tonight asking ChatGPT to explain slope to me using GeoGebra. As I use the tool, I can't help feeling that I'm talking to a precocious child who needs help explaining. We literally need to teach ChatGPT how to talk to students ("slow down!" "One step at a time, please."). Fascinating stuff.
 
