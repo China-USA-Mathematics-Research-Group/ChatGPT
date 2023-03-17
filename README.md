@@ -1,4 +1,4 @@
-#How Will AI Change Mathematics? (Castelvecchi---March 2, 2023)
+# How Will AI Change Mathematics? (Castelvecchi---March 2, 2023)
 
 
 # CHATGPT+GeoGebra Video
