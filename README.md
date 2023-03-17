@@ -1,6 +1,8 @@
-# The future of mathematics? (Kevin Buzzard, 2019)
+# The future of mathematics? 
 Link: https://www.ma.imperial.ac.uk/~buzzard/one_off_lectures/msr.pdf (Research slideshow)
-Link: How will AI change mathematics? Rise of chatbots highlights discussion (Nature article)
+
+# How will AI change mathematics? Rise of chatbots highlights discussion (Nature article)
+Link: https://www.nature.com/articles/d41586-023-00487-2
 
 Now it's 2019, and what have lmperial maths undergraduates formalised in Lean?
 1. The theorem of quadratic reciprocity.
