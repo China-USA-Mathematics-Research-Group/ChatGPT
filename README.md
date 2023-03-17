@@ -1,6 +1,6 @@
 # How Will AI Change Mathematics? (Castelvecchi---March 2, 2023)
 AI tools already help formulate new theories and solve problems. But they’re set to shake up maths even more.
-Link: 
+Link: https://github.com/China-USA-Mathematics-Research-Group/ChatGPT/blob/d18bad32a48d0d2cf062f709e1bf26e4e4248673/How%20Will%20AI%20Change%20Mathematics.pdf
 
 # CHATGPT+GeoGebra Video
 Rather than generating GeoGebra code with ChatGPT, I think a more realistic use of the software is to open GeoGebra next to ChatGPT and ask ChatGPT to provide GeoGebra steps to help explain concepts. For instance, I had a very engaging time tonight asking ChatGPT to explain slope to me using GeoGebra. As I use the tool, I can't help feeling that I'm talking to a precocious child who needs help explaining. We literally need to teach ChatGPT how to talk to students ("slow down!" "One step at a time, please."). Fascinating stuff.
