@@ -6,7 +6,7 @@ Link: https://www.nature.com/articles/d41586-023-00487-2
 
 # Theorem Proving in Lean
 Link: https://leanprover.github.io/theorem_proving_in_lean/
-[theorem_proving_in_lean.pdf](https://github.com/China-USA-Mathematics-Research-Group/ChatGPT/files/11011448/theorem_proving_in_lean.pdf)
+PDF Copy: [theorem_proving_in_lean.pdf](https://github.com/China-USA-Mathematics-Research-Group/ChatGPT/files/11011448/theorem_proving_in_lean.pdf)
 
 
 # Using Lean for teaching
