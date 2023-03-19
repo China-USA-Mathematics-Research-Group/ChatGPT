@@ -6,6 +6,9 @@ Link: https://www.nature.com/articles/d41586-023-00487-2
 
 PDF Copy: [nature article.pdf](https://github.com/China-USA-Mathematics-Research-Group/ChatGPT/files/11011535/nature.article.pdf)
 
+# Google's Minerva---Solving Maths Problems with AI
+Link: https://towardsdatascience.com/googles-minerva-solving-math-problems-with-ai-4f0a6aaabaf1
+
 # Theorem Proving in Lean
 Link: https://leanprover.github.io/theorem_proving_in_lean/
 
