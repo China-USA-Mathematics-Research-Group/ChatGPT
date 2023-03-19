@@ -4,6 +4,8 @@ Link: https://www.ma.imperial.ac.uk/~buzzard/one_off_lectures/msr.pdf (Research 
 # How will AI change mathematics? Rise of chatbots highlights discussion (Nature article)
 Link: https://www.nature.com/articles/d41586-023-00487-2
 
+PDF Copy: [nature article.pdf](https://github.com/China-USA-Mathematics-Research-Group/ChatGPT/files/11011535/nature.article.pdf)
+
 # Theorem Proving in Lean
 Link: https://leanprover.github.io/theorem_proving_in_lean/
 
