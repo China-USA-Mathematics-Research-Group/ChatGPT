@@ -16,6 +16,8 @@ Link: https://towardsdatascience.com/googles-minerva-solving-math-problems-with-
 # Theorem Proving in Lean
 Lean Community Site: https://leanprover-community.github.io
 
+The Natural Number Game (Good way to learn Lean): https://www.ma.imperial.ac.uk/~buzzard/xena/natural_number_game/
+
 Link: https://leanprover.github.io/theorem_proving_in_lean/
 
 PDF Copy: [theorem_proving_in_lean.pdf](https://github.com/China-USA-Mathematics-Research-Group/ChatGPT/files/11011448/theorem_proving_in_lean.pdf)
