@@ -1,7 +1,5 @@
 ![Screenshot 2023-03-19 at 9 29 38 PM](https://user-images.githubusercontent.com/124541337/226226610-368e5c2b-6e76-462e-a99b-bf2363445713.png)
 
-![humans are hooked machines are learning](https://user-images.githubusercontent.com/124758511/226226866-adda58d1-fa76-4d55-87da-5b90d9144069.jpg)
-
 # The future of mathematics? 
 Link: https://www.ma.imperial.ac.uk/~buzzard/one_off_lectures/msr.pdf (Research slideshow)
 
