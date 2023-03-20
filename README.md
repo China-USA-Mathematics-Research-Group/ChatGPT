@@ -22,9 +22,6 @@ Link: https://leanprover.github.io/theorem_proving_in_lean/
 
 PDF Copy: [theorem_proving_in_lean.pdf](https://github.com/China-USA-Mathematics-Research-Group/ChatGPT/files/11011448/theorem_proving_in_lean.pdf)
 
-# Lean Community Github Site (Includes installation instructions and tutorials)
-Link: https://leanprover-community.github.io
-
 Chat site (ask questions here): https://leanprover.zulipchat.com
 
 # Using Lean for teaching
