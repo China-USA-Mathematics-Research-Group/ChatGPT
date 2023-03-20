@@ -1,4 +1,4 @@
-![Screenshot 2023-03-19 at 9 29 38 PM](https://user-images.githubusercontent.com/124541337/226226610-368e5c2b-6e76-462e-a99b-bf2363445713.png)
+
 
 
 # The future of mathematics? 
