@@ -10,6 +10,8 @@ PDF Copy: [nature article.pdf](https://github.com/China-USA-Mathematics-Research
 Link: https://towardsdatascience.com/googles-minerva-solving-math-problems-with-ai-4f0a6aaabaf1
 
 # Theorem Proving in Lean
+Lean Community Site: https://leanprover-community.github.io
+
 Link: https://leanprover.github.io/theorem_proving_in_lean/
 
 PDF Copy: [theorem_proving_in_lean.pdf](https://github.com/China-USA-Mathematics-Research-Group/ChatGPT/files/11011448/theorem_proving_in_lean.pdf)
