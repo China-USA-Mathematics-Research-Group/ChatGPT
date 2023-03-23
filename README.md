@@ -61,10 +61,8 @@ I’m going to summarize some of meeting (that I found pretty interesting), sinc
 - AI 1 to AI 2 (like: from discover electricity to electrical network) 
 - Chinese “AI-music” demo
 - Chinese “AI-games” demo
-![c715250a25f5247b16f185fb002d571](https://user-images.githubusercontent.com/124758511/227099078-2a5e03af-77ce-4fd9-a0dc-5e91862b7d33.jpg)
-![Screenshot 2023-03-19 at 9 29 38 PM](https://user-images.githubusercontent.com/124541337/226226610-368e5c2b-6e76-462e-a99b-bf2363445713.png)
 
-Source: John McSmith
+![smaller_image](https://user-images.githubusercontent.com/124541337/227269426-5170dceb-9b64-41d3-a2a7-580dbe4d2156.jpg)
 
 # Articles and Videos
 1. The future of mathematics?
@@ -134,6 +132,10 @@ Computer scientists do not understand a lot of what we as mathematical researche
 
 # DRAFT PROPOSAL FOR AMS REGIONAL---FRESNO, CA
 ## Title: ChatGPT or ChatGPA? Exploring the role of AI in problem-solving and posing
+
+![Screenshot 2023-03-19 at 9 29 38 PM](https://user-images.githubusercontent.com/124541337/226226610-368e5c2b-6e76-462e-a99b-bf2363445713.png)
+
+Source: John McSmith
 
 - In the following session, an algebraist (Zheng Yang) and a mathematics educator (Todd Edwards) explore classic recreational mathematics tasks (e.g., Lewis Carroll's Cats and Rats Problem) using ChatGPT and GeoGebra. 
 
