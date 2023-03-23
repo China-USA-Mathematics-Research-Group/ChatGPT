@@ -1,7 +1,7 @@
 # News
 ## New Bots (USA, 3/23/2023)
-1. Quora Poe: https://poe.com/gpt-4
-2. Google Bard: (Sign up here): https://bard.google.com/signup
+**1. Quora Poe:** https://poe.com/gpt-4
+**2. Google Bard:** (Sign up here): https://bard.google.com/signup
 
 ## Khanmigo (Khan Academy + AI)
 Link: https://www.youtube.com/watch?v=rnIgnS8Susg
@@ -10,18 +10,17 @@ Link: https://www.youtube.com/watch?v=rnIgnS8Susg
 ## ChatGPT and big models conference (Beijing, 3/21/2023)
 I’m going to summarize some of meeting (that I found pretty interesting), since I’m about to leave Beijing in an hour and before I forget too much of it. (I took lots of pictures, later I may try upload them in our GitHub.
 
-1) an example: a dialog between two people involving same words “意思“ (pronounced :Yisi) appear in the conversation like 11 times, but the meanings are all different. Often this is hard to translate to English or interpret unless you know the Chinese language very well (perhaps culture too). But now ChatGPT (or GPT4) seems to explain the dialog in a much better way (although with some mistakes) than anything before.
+**1) an example:** a dialog between two people involving same words “意思“ (pronounced :Yisi) appear in the conversation like 11 times, but the meanings are all different. Often this is hard to translate to English or interpret unless you know the Chinese language very well (perhaps culture too). But now ChatGPT (or GPT4) seems to explain the dialog in a much better way (although with some mistakes) than anything before.
 — so how to train the language model (as GPT) is really a topic that people like to understand. Several talks mentioned that it’s not known how many parameters they used for GPT4. And it’s currently a huge gap between GPT4 and others (like the ones Chinese invented which are similar to it)
 - They also compare this with GPT3, for example,
 - Question:  How many eye does my foot have? 
 - GPT3: Your foot has two eyes.
 
 
-2) Future direction of big model: there are 3 items that are interrelated each other: a) complement the disadvantages of big models (see: augmented language models: a survey)  b) understand the engine (structure) of big models - encoder to decoder V.S Decoder? CoT mechanism. Need better evaluations for these models. C) World Scope (see Bisk 2020 paper). 
+**2) Future direction of big model:** there are 3 items that are interrelated each other: a) complement the disadvantages of big models (see: augmented language models: a survey)  b) understand the engine (structure) of big models - encoder to decoder V.S Decoder? CoT mechanism. Need better evaluations for these models. C) World Scope (see Bisk 2020 paper). 
 
 
-3) some Chinese version tools: ChatImg, (on WeChat, can test) and GPT4 has not yet open the “vision” —multimodal AGI and multimodal ChatGPT? GPT4 has not provided us solutions.
-
+**3) some Chinese version tools:** ChatImg, (on WeChat, can test) and GPT4 has not yet open the “vision” —multimodal AGI and multimodal ChatGPT? GPT4 has not provided us solutions.
 - Chinese “bysearch 1.0” —- focus on “small model” rather than “big models”.
 - Two “G”  since 2022— Generation (eg, Dall-E 2, Imagen, Stable Diffusion) 
 - General ( eg, LaMDA, PalM, ChatGPT, GPT4)
@@ -34,8 +33,7 @@ I’m going to summarize some of meeting (that I found pretty interesting), sinc
 - New paradigm: train a big model include all NLP tasks then the user just describe what they need
 - “The world needs more AGI models (more and more parameters, like 1000B)
 
-4) code representation model (code comprehension, code generation) 
-
+**4) code representation model (code comprehension, code generation)**
 - Demo of AiXcoder (by Peking University) 
 - Full line code completion 
 - Difference between natural language and program language 
@@ -43,7 +41,7 @@ I’m going to summarize some of meeting (that I found pretty interesting), sinc
 - What we can do is pull the big model into this complex environment to play its role (since software development happens in a complex environment and it’s difficult to transfer all the things to a big model)
 - Big model has shown us the dawn of software development automation (still a long way to go)
 
-5) mistakes of facts (Hallucination) - intrinsic and extrinsic
+**5) mistakes of facts (Hallucination) - intrinsic and extrinsic**
 
 - GPT4 has made more improvements than ChatGPT 
 - (Better control, trust, safer, more close to human…)
@@ -52,7 +50,7 @@ I’m going to summarize some of meeting (that I found pretty interesting), sinc
 - ChatGPT core tech: prompt learning, instruction learning
 
 
-6) Chat Demo (example of Biomedicine + AI ChatGPT) 
+**6) Chat Demo (example of Biomedicine + AI ChatGPT) **
 - Drug design research (challenges: nonEuclidean data, graph network, notenough data label, insert domain knowledge, Engineering problems in big models)
 - Chinese “PSG”-algorithm  OGB competition 
 - Chinese “ChatYuan” KnowX
@@ -110,7 +108,7 @@ Currently, the only thing that Lean can offer the researcher is a “certificate
 
 Humans are good at forgetting to go back and fill in these details. Lean will not let you forget. The computer-generated red squiggly line underneath your theorem reminds you that your proof is not complete, even if your work relies on results announced by others and hence “it is not your job to complete it”. During our work formalizing perfectoid spaces, it got to the point where I knew “we had done it”, but until the definition compiled we knew we had not convinced Lean. Another issue is the fact that formalising the proof of a big theorem like Fermat’s Last Theorem, given the state of the art, would surely take more than 100 person-years. Getting money for this would involve a grant proposal which no grant agency would fund, and which would yield a result which no mathematician would care about anyway — we all know Fermat’s Last Theorem is true, because we know the experts have accepted the result.
 
-Because Lean is offering something that pure mathematics researchers do not generally want (a fully formalized verification of their theorems) at a price which researchers generally will not pay (the time taken to learn how to use the software, and then the time taken to formalize their own proofs), in practice one has to rule this out as a viable practical application of these tools at this point in time. Things might change in the future, but rather than speculate on how good computers can or will become at understanding natural language (i.e., arXiv preprints), let me simply observe that currently they are nowhere near good enough, and instead turn to other things.
+* *Because Lean is offering something that pure mathematics researchers do not generally want (a fully formalized verification of their theorems) at a price which researchers generally will not pay (the time taken to learn how to use the software, and then the time taken to formalize their own proofs), in practice one has to rule this out as a viable practical application of these tools at this point in time. Things might change in the future, but rather than speculate on how good computers can or will become at understanding natural language (i.e., arXiv preprints), let me simply observe that currently they are nowhere near good enough, and instead turn to other things.* *
 
 Already computer scientists are trying to develop tools which can actually do mathematics better than humans. They want to train their AI on databases — but these databases are few and far between, and several of the databases which are used in practice are databases of solutions to gigantic logic puzzles which bear no relation to modern mathematics. I believe that it is up to us as a community to explain to computer scientists what we are actually doing, in a format which is more useful to them than tens of thousands of arXiv preprints where we use words like “normal” and “complete” to mean five different things and where we write in the idiomatic and bizarre English language, thus adding another layer of obfuscation to the material. Formalisation solves this problem — it makes us say what we mean in a clear and coherent manner. This is what these people need to make tools for us — and we are not giving it to them. Mathematicians do not seem to have any desire to formalise a proof of Fermat’s Last Theorem, however computer scientists are desperate to train their AI’s on a formalised proof, to see how much further they can take things. If any mathematician reading this decides that they would be interested in taking up the challenge of formalising the statement of one of their theorems in Lean, then they can find me at the Zulip lean chat.
 
