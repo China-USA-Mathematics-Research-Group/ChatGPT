@@ -97,7 +97,7 @@ Link: https://www.zinkerz.com/2023/01/27/exploring-the-potential-of-ai-in-educat
 - Note: This is the article that introduced the idea of "Black Box, White Box"
 
 11. The Disk with a College Education (Herbert Wilf, 1982)
-- [2320988.pdf](https://github.com/China-USA-Mathematics-Research-Group/ChatGPT/files/11053210/2320988.pdf)
+- Direct link to PDF: [2320988.pdf](https://github.com/China-USA-Mathematics-Research-Group/ChatGPT/files/11053210/2320988.pdf)
 - I was a first-year high school student when this was published. I wish my teacher would have read this article!
 - "As teachers of mathematics, our responses might range all the way from a declaration that "no computers are allowed in exams or to help with homework" to the if-you-can't-lick-'em-then-join- 'em approach (teach the students how to use their clever little computers)."
 - "Will we allow students to bring them into exams? Use them to do homework? How will the content of calculus courses be affected? Will we take the advice that we have been dispensing to teachers in the primary grades: that they should teach more of concepts and less of mechanics? What happens when $29.95 pocket computers can do all of the above and solve standard forms of differential equations, do multiple integrals, vector analysis, and what-have-you? Excuse me if I don't have answers. I wanted only to raise the questions and beat a hasty retreat."
