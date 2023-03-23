@@ -50,7 +50,7 @@ I’m going to summarize some of meeting (that I found pretty interesting), sinc
 - ChatGPT core tech: prompt learning, instruction learning
 
 
-**6) Chat Demo (example of Biomedicine + AI ChatGPT) **
+**6) Chat Demo (example of Biomedicine + AI ChatGPT)**
 - Drug design research (challenges: nonEuclidean data, graph network, notenough data label, insert domain knowledge, Engineering problems in big models)
 - Chinese “PSG”-algorithm  OGB competition 
 - Chinese “ChatYuan” KnowX
