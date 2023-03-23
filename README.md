@@ -1,3 +1,7 @@
+# Khanmigo (Khan Academy + AI)
+Link: https://www.youtube.com/watch?v=rnIgnS8Susg
+
+
 # ChatGPT and big models conference (Beijing, 3/21/2023)
 I’m going to summarize some of meeting (that I found pretty interesting), since I’m about to leave Beijing in an hour and before I forget too much of it. (I took lots of pictures, later I may try upload them in our GitHub.
 
