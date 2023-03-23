@@ -1,3 +1,6 @@
+# Formatting Syntax for github readme files
+Link: https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
+
 # News
 ## New Bots (USA, 3/23/2023)
 **1. Quora Poe:** https://poe.com/gpt-4
