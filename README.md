@@ -64,31 +64,31 @@ I’m going to summarize some of meeting (that I found pretty interesting), sinc
 Source: John McSmith
 
 # Articles
-1. The future of mathematics? 
+1. * *The future of mathematics? * *
 Link: https://www.ma.imperial.ac.uk/~buzzard/one_off_lectures/msr.pdf (Research slideshow)
 
-2. How will AI change mathematics? Rise of chatbots highlights discussion (Nature article)
+2. * *How will AI change mathematics? Rise of chatbots highlights discussion (Nature article)* *
 Link: https://www.nature.com/articles/d41586-023-00487-2
 
 3. PDF Copy: [nature article.pdf](https://github.com/China-USA-Mathematics-Research-Group/ChatGPT/files/11011535/nature.article.pdf)
 
-4. Google's Minerva---Solving Maths Problems with AI
+4. * *Google's Minerva---Solving Maths Problems with AI* *
 Link: https://towardsdatascience.com/googles-minerva-solving-math-problems-with-ai-4f0a6aaabaf1
 
-5. H. Bender and G. Glauberman, Local Analysis for the Odd Order Theorem, Cambridge University Press, 1994.
+5. H. Bender and G. Glauberman, * *Local Analysis for the Odd Order Theorem* *, Cambridge University Press, 1994.
 
-6. S. Gouezel and V. Shchur, A corrected quanti- tative version of the Morse lemma, J. Funct. Anal. 277 (2019) 1248–1258.
+6. S. Gouezel and V. Shchur, * *A corrected quantitative version of the Morse lemma* *, J. Funct. Anal. 277 (2019) 1248–1258.
 
-7. T. Peterfalvi, Character Theory for the Odd Or- der Theorem, Cambridge University Press, 2000.
+7. T. Peterfalvi, * *Character Theory for the Odd Order Theorem * *, Cambridge University Press, 2000.
 
-8. Exploring the Potential of AI in Education: Thoughts on “Open Book, Open AI” Examinations
+8. * *Exploring the Potential of AI in Education: Thoughts on “Open Book, Open AI” Examinations* *
 Link: https://www.zinkerz.com/2023/01/27/exploring-the-potential-of-ai-in-education/
 
-9. How Will AI Change Mathematics? (Castelvecchi---March 2, 2023)
+9. * *How Will AI Change Mathematics?* * (Castelvecchi---March 2, 2023)
 - AI tools already help formulate new theories and solve problems. But they’re set to shake up maths even more.
 - Link: https://github.com/China-USA-Mathematics-Research-Group/ChatGPT/blob/d18bad32a48d0d2cf062f709e1bf26e4e4248673/How%20Will%20AI%20Change%20Mathematics.pdf
 
-10. GeoGebra+ChatGPT Video Demo
+10. * *GeoGebra+ChatGPT Video Demo* *
 - Youtube link: https://www.youtube.com/watch?v=n8P0SaOvKhM (loads fast, but might require VPN)
 - Local link: https://user-images.githubusercontent.com/124541337/223581286-c4542f9b-ab4d-47b2-85bb-ff9ff320ed99.mp4 (loads SLOWLY)
 
