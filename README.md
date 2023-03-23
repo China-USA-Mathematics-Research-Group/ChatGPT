@@ -1,3 +1,7 @@
+# New Bots (March 23)
+1. Quora Poe: https://poe.com/gpt-4
+2. Google Bard: (Sign up here): https://bard.google.com/signup
+
 # Khanmigo (Khan Academy + AI)
 Link: https://www.youtube.com/watch?v=rnIgnS8Susg
 
