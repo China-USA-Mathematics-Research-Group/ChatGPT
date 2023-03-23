@@ -72,7 +72,7 @@ GPT4 has made more improvements than ChatGPT
 
 (Better control, trust, safer, more close to human…)
 
-White box vs black box
+White box vs black box (ZHENG, "White Box/Black Box" was one of the most important themes from my PhD disseration. The literature around this began with Bruno Buchberger back in 1989. Here's a link to his seminal article: https://dl.acm.org/doi/pdf/10.1145/382276.1095228
 
 Chinese “AI-Topia”
 
