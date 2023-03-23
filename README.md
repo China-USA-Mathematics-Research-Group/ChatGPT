@@ -1,4 +1,4 @@
-# New Bots (March 23)
+# New Bots (USA, 3/23/2023)
 1. Quora Poe: https://poe.com/gpt-4
 2. Google Bard: (Sign up here): https://bard.google.com/signup
 
