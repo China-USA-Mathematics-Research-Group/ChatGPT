@@ -1,4 +1,94 @@
+# ChatGPT and big models conference (Beijing, 3/21/2023)
+I’m going to summarize some of meeting (that I found pretty interesting), since I’m about to leave Beijing in an hour and before I forget too much of it. (I took lots of pictures, later I may try upload them in our GitHub.
 
+1) an example: a dialog between two people involving same words “意思“ (pronounced :Yisi) appear in the conversation like 11 times, but the meanings are all different. Often this is hard to translate to English or interpret unless you know the Chinese language very well (perhaps culture too). But now ChatGPT (or GPT4) seems to explain the dialog in a much better way (although with some mistakes) than anything before.
+
+—so how to train the language model (as GPT) is really a topic that people like to understand. Several talks mentioned that it’s not known how many parameters they used for GPT4. And it’s currently a huge gap between GPT4 and others (like the ones Chinese invented which are similar to it)
+
+They also compare this with GPT3, for example,
+
+Question:  How many eye does my foot have? 
+
+GPT3: Your foot has two eyes.
+
+
+2) Future direction of big model: there are 3 items that are interrelated each other: a) complement the disadvantages of big models (see: augmented language models: a survey)  b) understand the engine (structure) of big models - encoder to decoder V.S Decoder? CoT mechanism. Need better evaluations for these models. C) World Scope (see Bisk 2020 paper). 
+
+
+3) some Chinese version tools: ChatImg, (on WeChat, can test) and GPT4 has not yet open the “vision” —multimodal AGI and multimodal ChatGPT? GPT4 has not provided us solutions.
+
+
+Chinese “bysearch 1.0” —- focus on “small model” rather than “big models”.
+
+
+Two “G”  since 2022— Generation (eg, Dall-E 2, Imagen, Stable Diffusion) 
+
+General ( eg, LaMDA, PalM, ChatGPT, GPT4)
+
+—“If we learn language, we will learn thinking”.
+
+Propose: AGI 1 (currently, thinking machine) AGI 2 (memory, constantly learn from conversation) 
+
+AGI 3 (interact with physical world, make decisions) AGI 4 (by itself, can constantly think without inputs) 
+
+
+Chinese “IDEA-CCNL” NLU, NLG, NLT 
+
+MindBot-Lite (there’s a website)
+
+An example of RLHF (based on human feedback reinforced learning) 
+
+New paradigm: train a big model include all NLP tasks then the user just describe what they need
+
+“The world needs more AGI models (more and more parameters, like 1000B)
+
+
+4) code representation model (code comprehension, code generation) 
+
+Demo of AiXcoder (by Peking University) 
+
+Full line code completion 
+
+Difference between natural language and program language 
+
+Q: Can we use different representations of programs to construct big models? (Confirmed effective in small models)
+
+What we can do is pull the big model into this complex environment to play its role (since software development happens in a complex environment and it’s difficult to transfer all the things to a big model)
+
+Big model has shown us the dawn of software development automation (still a long way to go)
+
+
+5) mistakes of facts (Hallucination) - intrinsic and extrinsic
+
+GPT4 has made more improvements than ChatGPT 
+
+(Better control, trust, safer, more close to human…)
+
+White box vs black box
+
+Chinese “AI-Topia”
+
+ChatGPT core tech: prompt learning, instruction learning
+
+
+6) Chat Demo (example of Biomedicine + AI ChatGPT) 
+
+Drug design research (challenges: nonEuclidean data, graph network, notenough data label, insert domain knowledge, Engineering problems in big models)
+
+Chinese “PSG”-algorithm  OGB competition 
+
+
+Chinese “ChatYuan” KnowX
+
+3 layers: application, middle, foundation 
+
+AI 1 to AI 2 (like: from discover electricity to electrical network) 
+
+
+Chinese “AI-music” demo
+
+
+Chinese “AI-games” demo
 ![c715250a25f5247b16f185fb002d571](https://user-images.githubusercontent.com/124758511/227099078-2a5e03af-77ce-4fd9-a0dc-5e91862b7d33.jpg)
 
 
