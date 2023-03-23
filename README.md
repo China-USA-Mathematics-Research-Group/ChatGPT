@@ -94,6 +94,7 @@ Link: https://www.zinkerz.com/2023/01/27/exploring-the-potential-of-ai-in-educat
 
 # Lean
 ## Theorem Proving in Lean
+- Talk to others about Lean (including Linear Algebra, ChatGPT discussion, and more): https://leanprover.zulipchat.com
 - Lean Community Site: https://leanprover-community.github.io
 - The Natural Number Game (Good way to learn Lean): https://www.ma.imperial.ac.uk/~buzzard/xena/natural_number_game/
 - Link: https://leanprover.github.io/theorem_proving_in_lean/
