@@ -45,7 +45,7 @@ I’m going to summarize some of meeting (that I found pretty interesting), sinc
 
 - GPT4 has made more improvements than ChatGPT 
 - (Better control, trust, safer, more close to human…)
-- ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) White box vs black box (ZHENG, "White Box/Black Box" was one of the most important themes from my PhD disseration. The literature around this began with Bruno Buchberger back in 1989. Here's a link to his seminal article: https://dl.acm.org/doi/pdf/10.1145/382276.1095228
+- **White box vs black box (ZHENG, "White Box/Black Box" was one of the most important themes from my PhD disseration. The literature around this began with Bruno Buchberger back in 1989. Here's a link to his seminal article: https://dl.acm.org/doi/pdf/10.1145/382276.1095228**
 - Chinese “AI-Topia”
 - ChatGPT core tech: prompt learning, instruction learning
 
