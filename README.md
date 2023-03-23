@@ -13,7 +13,7 @@ Link: https://www.youtube.com/watch?v=rnIgnS8Susg
 ## ChatGPT and big models conference (Beijing, 3/21/2023)
 I’m going to summarize some of meeting (that I found pretty interesting), since I’m about to leave Beijing in an hour and before I forget too much of it. (I took lots of pictures, later I may try upload them in our GitHub.
 
-**1) an example:** a dialog between two people involving same words “意思“ (pronounced :Yisi) appear in the conversation like 11 times, but the meanings are all different. Often this is hard to translate to English or interpret unless you know the Chinese language very well (perhaps culture too). But now ChatGPT (or GPT4) seems to explain the dialog in a much better way (although with some mistakes) than anything before.
+**1) An example:** a dialog between two people involving same words “意思“ (pronounced :Yisi) appear in the conversation like 11 times, but the meanings are all different. Often this is hard to translate to English or interpret unless you know the Chinese language very well (perhaps culture too). But now ChatGPT (or GPT4) seems to explain the dialog in a much better way (although with some mistakes) than anything before.
 — so how to train the language model (as GPT) is really a topic that people like to understand. Several talks mentioned that it’s not known how many parameters they used for GPT4. And it’s currently a huge gap between GPT4 and others (like the ones Chinese invented which are similar to it)
 - They also compare this with GPT3, for example,
 - Question:  How many eye does my foot have? 
@@ -23,7 +23,7 @@ I’m going to summarize some of meeting (that I found pretty interesting), sinc
 **2) Future direction of big model:** there are 3 items that are interrelated each other: a) complement the disadvantages of big models (see: augmented language models: a survey)  b) understand the engine (structure) of big models - encoder to decoder V.S Decoder? CoT mechanism. Need better evaluations for these models. C) World Scope (see Bisk 2020 paper). 
 
 
-**3) some Chinese version tools:** ChatImg, (on WeChat, can test) and GPT4 has not yet open the “vision” —multimodal AGI and multimodal ChatGPT? GPT4 has not provided us solutions.
+**3) Some Chinese version tools:** ChatImg, (on WeChat, can test) and GPT4 has not yet open the “vision” —multimodal AGI and multimodal ChatGPT? GPT4 has not provided us solutions.
 - Chinese “bysearch 1.0” —- focus on “small model” rather than “big models”.
 - Two “G”  since 2022— Generation (eg, Dall-E 2, Imagen, Stable Diffusion) 
 - General ( eg, LaMDA, PalM, ChatGPT, GPT4)
@@ -36,7 +36,7 @@ I’m going to summarize some of meeting (that I found pretty interesting), sinc
 - New paradigm: train a big model include all NLP tasks then the user just describe what they need
 - “The world needs more AGI models (more and more parameters, like 1000B)
 
-**4) code representation model (code comprehension, code generation)**
+**4) Code representation model (code comprehension, code generation)**
 - Demo of AiXcoder (by Peking University) 
 - Full line code completion 
 - Difference between natural language and program language 
@@ -44,7 +44,7 @@ I’m going to summarize some of meeting (that I found pretty interesting), sinc
 - What we can do is pull the big model into this complex environment to play its role (since software development happens in a complex environment and it’s difficult to transfer all the things to a big model)
 - Big model has shown us the dawn of software development automation (still a long way to go)
 
-**5) mistakes of facts (Hallucination) - intrinsic and extrinsic**
+**5) Mistakes of facts (Hallucination) - intrinsic and extrinsic**
 
 - GPT4 has made more improvements than ChatGPT 
 - (Better control, trust, safer, more close to human…)
@@ -66,34 +66,43 @@ I’m going to summarize some of meeting (that I found pretty interesting), sinc
 
 Source: John McSmith
 
-# Articles
-1. * *The future of mathematics? * *
-Link: https://www.ma.imperial.ac.uk/~buzzard/one_off_lectures/msr.pdf (Research slideshow)
+# Articles and Videos
+1. The future of mathematics?
+- Link: https://www.ma.imperial.ac.uk/~buzzard/one_off_lectures/msr.pdf (Research slideshow)
 
-2. * *How will AI change mathematics? Rise of chatbots highlights discussion (Nature article)* *
-Link: https://www.nature.com/articles/d41586-023-00487-2
+2. How will AI change mathematics? Rise of chatbots highlights discussion (Nature article)
+- Link: https://www.nature.com/articles/d41586-023-00487-2
+- PDF Copy: [nature article.pdf](https://github.com/China-USA-Mathematics-Research-Group/ChatGPT/files/11011535/nature.article.pdf)
 
-3. PDF Copy: [nature article.pdf](https://github.com/China-USA-Mathematics-Research-Group/ChatGPT/files/11011535/nature.article.pdf)
+3. Google's Minerva---Solving Maths Problems with AI
+- Link: https://towardsdatascience.com/googles-minerva-solving-math-problems-with-ai-4f0a6aaabaf1
 
-4. * *Google's Minerva---Solving Maths Problems with AI* *
-Link: https://towardsdatascience.com/googles-minerva-solving-math-problems-with-ai-4f0a6aaabaf1
+4. H. Bender and G. Glauberman, * *Local Analysis for the Odd Order Theorem* *, Cambridge University Press, 1994.
 
-5. H. Bender and G. Glauberman, * *Local Analysis for the Odd Order Theorem* *, Cambridge University Press, 1994.
+5. S. Gouezel and V. Shchur, * *A corrected quantitative version of the Morse lemma* *, J. Funct. Anal. 277 (2019) 1248–1258.
 
-6. S. Gouezel and V. Shchur, * *A corrected quantitative version of the Morse lemma* *, J. Funct. Anal. 277 (2019) 1248–1258.
+6. T. Peterfalvi, * *Character Theory for the Odd Order Theorem * *, Cambridge University Press, 2000.
 
-7. T. Peterfalvi, * *Character Theory for the Odd Order Theorem * *, Cambridge University Press, 2000.
-
-8. * *Exploring the Potential of AI in Education: Thoughts on “Open Book, Open AI” Examinations* *
+7. Exploring the Potential of AI in Education: Thoughts on “Open Book, Open AI” Examinations
 Link: https://www.zinkerz.com/2023/01/27/exploring-the-potential-of-ai-in-education/
 
-9. * *How Will AI Change Mathematics?* * (Castelvecchi---March 2, 2023)
+8. How Will AI Change Mathematics?* * (Castelvecchi---March 2, 2023)
 - AI tools already help formulate new theories and solve problems. But they’re set to shake up maths even more.
 - Link: https://github.com/China-USA-Mathematics-Research-Group/ChatGPT/blob/d18bad32a48d0d2cf062f709e1bf26e4e4248673/How%20Will%20AI%20Change%20Mathematics.pdf
 
-10. * *GeoGebra+ChatGPT Video Demo* *
+9. GeoGebra+ChatGPT Video Demo
 - Youtube link: https://www.youtube.com/watch?v=n8P0SaOvKhM (loads fast, but might require VPN)
 - Local link: https://user-images.githubusercontent.com/124541337/223581286-c4542f9b-ab4d-47b2-85bb-ff9ff320ed99.mp4 (loads SLOWLY)
+
+10. Should Students Learn Integration Rules? (Buchberger, 1989)
+- Link: https://dl.acm.org/doi/pdf/10.1145/382276.1095228
+- Note: This is the article that introduced the idea of "Black Box, White Box"
+
+11. The Disk with a College Education (Herbert Wilf, 1982)
+- [2320988.pdf](https://github.com/China-USA-Mathematics-Research-Group/ChatGPT/files/11053210/2320988.pdf)
+- I was a first-year high school student when this was published. I wish my teacher would have read this article!
+- "As teachers of mathematics, our responses might range all the way from a declaration that "no computers are allowed in exams or to help with homework" to the if-you-can't-lick-'em-then-join- 'em approach (teach the students how to use their clever little computers)."
+- "Will we allow students to bring them into exams? Use them to do homework? How will the content of calculus courses be affected? Will we take the advice that we have been dispensing to teachers in the primary grades: that they should teach more of concepts and less of mechanics? What happens when $29.95 pocket computers can do all of the above and solve standard forms of differential equations, do multiple integrals, vector analysis, and what-have-you? Excuse me if I don't have answers. I wanted only to raise the questions and beat a hasty retreat."
 
 # Lean
 ## Theorem Proving in Lean
