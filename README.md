@@ -88,6 +88,10 @@ Link: https://www.zinkerz.com/2023/01/27/exploring-the-potential-of-ai-in-educat
 - AI tools already help formulate new theories and solve problems. But they’re set to shake up maths even more.
 - Link: https://github.com/China-USA-Mathematics-Research-Group/ChatGPT/blob/d18bad32a48d0d2cf062f709e1bf26e4e4248673/How%20Will%20AI%20Change%20Mathematics.pdf
 
+10. GeoGebra+ChatGPT Video Demo
+- Youtube link: https://www.youtube.com/watch?v=n8P0SaOvKhM (loads fast, but might require VPN)
+- Local link: https://user-images.githubusercontent.com/124541337/223581286-c4542f9b-ab4d-47b2-85bb-ff9ff320ed99.mp4 (loads SLOWLY)
+
 # Lean
 ## Theorem Proving in Lean
 - Lean Community Site: https://leanprover-community.github.io
@@ -114,11 +118,6 @@ Already computer scientists are trying to develop tools which can actually do ma
 
 Computer scientists do not understand a lot of what we as mathematical researchers do, or how we do it. Let’s tell them in their own language, and see what happens next. Computer scientists have developed tools which can eat mathematics, but until these tools get more self-sufficient they will need to be hand-fed. It will be very interesting to see what these tools become as they grow.
 
-# CHATGPT+GeoGebra Video
-Rather than generating GeoGebra code with ChatGPT, I think a more realistic use of the software is to open GeoGebra next to ChatGPT and ask ChatGPT to provide GeoGebra steps to help explain concepts. For instance, I had a very engaging time tonight asking ChatGPT to explain slope to me using GeoGebra. As I use the tool, I can't help feeling that I'm talking to a precocious child who needs help explaining. We literally need to teach ChatGPT how to talk to students ("slow down!" "One step at a time, please."). Fascinating stuff.
-
-- Youtube link: https://www.youtube.com/watch?v=n8P0SaOvKhM (loads fast, but might require VPN)
-- Local link: https://user-images.githubusercontent.com/124541337/223581286-c4542f9b-ab4d-47b2-85bb-ff9ff320ed99.mp4 (loads SLOWLY)
 
 # DRAFT PROPOSAL FOR AMS REGIONAL---FRESNO, CA
 ## Title: ChatGPT or ChatGPA? Exploring the role of AI in problem-solving and posing
