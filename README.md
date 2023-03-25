@@ -65,15 +65,12 @@ I’m going to summarize some of meeting (that I found pretty interesting), sinc
 ![smaller_image](https://user-images.githubusercontent.com/124541337/227269426-5170dceb-9b64-41d3-a2a7-580dbe4d2156.jpg)
 
 # Articles and Videos
-1. The future of mathematics?
-- Link: https://www.ma.imperial.ac.uk/~buzzard/one_off_lectures/msr.pdf (Research slideshow)
+1. The future of mathematics? Link: https://www.ma.imperial.ac.uk/~buzzard/one_off_lectures/msr.pdf (Research slideshow)
 
-2. How will AI change mathematics? Rise of chatbots highlights discussion (Nature article)
-- Link: https://www.nature.com/articles/d41586-023-00487-2
+2. How will AI change mathematics? Rise of chatbots highlights discussion (Nature article) Link: https://www.nature.com/articles/d41586-023-00487-2
 - PDF Copy: [nature article.pdf](https://github.com/China-USA-Mathematics-Research-Group/ChatGPT/files/11011535/nature.article.pdf)
 
-3. Google's Minerva---Solving Maths Problems with AI
-- Link: https://towardsdatascience.com/googles-minerva-solving-math-problems-with-ai-4f0a6aaabaf1
+3. Google's Minerva---Solving Maths Problems with AI: Link: https://towardsdatascience.com/googles-minerva-solving-math-problems-with-ai-4f0a6aaabaf1
 
 4. H. Bender and G. Glauberman, * *Local Analysis for the Odd Order Theorem* *, Cambridge University Press, 1994.
 
@@ -81,19 +78,14 @@ I’m going to summarize some of meeting (that I found pretty interesting), sinc
 
 6. T. Peterfalvi, * *Character Theory for the Odd Order Theorem * *, Cambridge University Press, 2000.
 
-7. Exploring the Potential of AI in Education: Thoughts on “Open Book, Open AI” Examinations
-Link: https://www.zinkerz.com/2023/01/27/exploring-the-potential-of-ai-in-education/
+7. Exploring the Potential of AI in Education: Thoughts on “Open Book, Open AI” Examinations Link: https://www.zinkerz.com/2023/01/27/exploring-the-potential-of-ai-in-education/
 
-8. How Will AI Change Mathematics?* * (Castelvecchi---March 2, 2023)
+8. How Will AI Change Mathematics?* * (Castelvecchi---March 2, 2023) Link: https://github.com/China-USA-Mathematics-Research-Group/ChatGPT/blob/d18bad32a48d0d2cf062f709e1bf26e4e4248673/How%20Will%20AI%20Change%20Mathematics.pdf
 - AI tools already help formulate new theories and solve problems. But they’re set to shake up maths even more.
-- Link: https://github.com/China-USA-Mathematics-Research-Group/ChatGPT/blob/d18bad32a48d0d2cf062f709e1bf26e4e4248673/How%20Will%20AI%20Change%20Mathematics.pdf
 
-9. GeoGebra+ChatGPT Video Demo
-- Youtube link: https://www.youtube.com/watch?v=n8P0SaOvKhM (loads fast, but might require VPN)
-- Local link: https://user-images.githubusercontent.com/124541337/223581286-c4542f9b-ab4d-47b2-85bb-ff9ff320ed99.mp4 (loads SLOWLY)
+9. GeoGebra+ChatGPT Video Demo Youtube link: https://www.youtube.com/watch?v=n8P0SaOvKhM (loads fast, but might require VPN)
 
-10. Should Students Learn Integration Rules? (Buchberger, 1989)
-- Link: https://dl.acm.org/doi/pdf/10.1145/382276.1095228
+10. Should Students Learn Integration Rules? (Buchberger, 1989) Link: https://dl.acm.org/doi/pdf/10.1145/382276.1095228
 - Note: This is the article that introduced the idea of "Black Box, White Box"
 
 11. The Disk with a College Education (Herbert Wilf, 1982)
