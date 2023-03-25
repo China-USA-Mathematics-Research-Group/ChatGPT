@@ -74,7 +74,7 @@ I’m going to summarize some of meeting (that I found pretty interesting), sinc
 
 4. H. Bender and G. Glauberman, * *Local Analysis for the Odd Order Theorem* *, Cambridge University Press, 1994.
 
-5. S. Gouezel and V. Shchur, * *A corrected quantitative version of the Morse lemma* *, J. Funct. Anal. 277 (2019) 1248–1258.
+5. S. Gouezel and V. Shchur, A corrected quantitative version of the Morse lemma, J. Funct. Anal. 277 (2019) 1248–1258.
 
 6. T. Peterfalvi, * *Character Theory for the Odd Order Theorem * *, Cambridge University Press, 2000.
 
