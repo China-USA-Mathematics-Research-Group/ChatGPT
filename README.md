@@ -72,15 +72,15 @@ I’m going to summarize some of meeting (that I found pretty interesting), sinc
 
 3. Google's Minerva---Solving Maths Problems with AI: Link: https://towardsdatascience.com/googles-minerva-solving-math-problems-with-ai-4f0a6aaabaf1
 
-4. H. Bender and G. Glauberman, * *Local Analysis for the Odd Order Theorem* *, Cambridge University Press, 1994.
+4. H. Bender and G. Glauberman, Local Analysis for the Odd Order Theorem, Cambridge University Press, 1994.
 
 5. S. Gouezel and V. Shchur, A corrected quantitative version of the Morse lemma, J. Funct. Anal. 277 (2019) 1248–1258.
 
-6. T. Peterfalvi, * *Character Theory for the Odd Order Theorem * *, Cambridge University Press, 2000.
+6. T. Peterfalvi, Character Theory for the Odd Order Theorem, Cambridge University Press, 2000.
 
 7. Exploring the Potential of AI in Education: Thoughts on “Open Book, Open AI” Examinations Link: https://www.zinkerz.com/2023/01/27/exploring-the-potential-of-ai-in-education/
 
-8. How Will AI Change Mathematics?* * (Castelvecchi---March 2, 2023) Link: https://github.com/China-USA-Mathematics-Research-Group/ChatGPT/blob/d18bad32a48d0d2cf062f709e1bf26e4e4248673/How%20Will%20AI%20Change%20Mathematics.pdf
+8. How Will AI Change Mathematics? (Castelvecchi---March 2, 2023) Link: https://github.com/China-USA-Mathematics-Research-Group/ChatGPT/blob/d18bad32a48d0d2cf062f709e1bf26e4e4248673/How%20Will%20AI%20Change%20Mathematics.pdf
 - AI tools already help formulate new theories and solve problems. But they’re set to shake up maths even more.
 
 9. GeoGebra+ChatGPT Video Demo Youtube link: https://www.youtube.com/watch?v=n8P0SaOvKhM (loads fast, but might require VPN)
