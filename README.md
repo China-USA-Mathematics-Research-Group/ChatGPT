@@ -1,14 +1,15 @@
 # Formatting Syntax for github readme files
 Link: https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
 
-# News
-## New Bots (USA, 3/23/2023)
-**1. Quora Poe:** https://poe.com/gpt-4
-**2. Google Bard:** (Sign up here): https://bard.google.com/signup
+# ChatGPT
+## General suggestions for crafting prompts that elicit sophisticated responses with GPT-4 (as suggested by GPT-4!):
 
-## Khanmigo (Khan Academy + AI)
-Link: https://www.youtube.com/watch?v=rnIgnS8Susg
-
+1. Be specific: Clearly define the topic or concepts you want the model to address. This helps to narrow the scope of the response and ensures it focuses on the desired subject matter.
+2. Request analysis or comparison: Encourage deeper thought by asking the model to analyze, compare, or contrast concepts, theories, or ideas. This will prompt the model to provide a more nuanced and detailed response.
+3. Incorporate multiple perspectives: Request that the model explore different viewpoints or consider various implications related to the topic. This encourages a more comprehensive and balanced response.
+4. Use academic or professional language: Phrasing your prompt using more formal language can signal to the model that you are seeking a well-reasoned, intellectual response.
+5. Limit word count: By specifying a word limit, you can encourage the model to be concise and prioritize the most relevant information.
+6. Remember, GPT-4's performance is still dependent on the quality of the input prompt. Experiment with different phrasings and approaches to refine the output and receive more sophisticated responses.
 
 ## ChatGPT and big models conference (Beijing, 3/21/2023)
 I’m going to summarize some of meeting (that I found pretty interesting), since I’m about to leave Beijing in an hour and before I forget too much of it. (I took lots of pictures, later I may try upload them in our GitHub.
@@ -18,7 +19,6 @@ I’m going to summarize some of meeting (that I found pretty interesting), sinc
 - They also compare this with GPT3, for example,
 - Question:  How many eye does my foot have? 
 - GPT3: Your foot has two eyes.
-
 
 **2) Future direction of big model:** there are 3 items that are interrelated each other: a) complement the disadvantages of big models (see: augmented language models: a survey)  b) understand the engine (structure) of big models - encoder to decoder V.S Decoder? CoT mechanism. Need better evaluations for these models. C) World Scope (see Bisk 2020 paper). 
 
