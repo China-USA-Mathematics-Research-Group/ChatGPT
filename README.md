@@ -99,6 +99,7 @@ I’m going to summarize some of meeting (that I found pretty interesting), sinc
 - Talk to others about Lean (including Linear Algebra, ChatGPT discussion, and more): https://leanprover.zulipchat.com
 - Lean Community Site: https://leanprover-community.github.io
 - The Natural Number Game (Good way to learn Lean): https://www.ma.imperial.ac.uk/~buzzard/xena/natural_number_game/
+- I hope someday to get to this, especiall some homological algebra topics. Link: https://github.com/kbuzzard/xena/blob/master/many_maths_challenges.txt
 - Link: https://leanprover.github.io/theorem_proving_in_lean/
 - PDF Copy: [theorem_proving_in_lean.pdf](https://github.com/China-USA-Mathematics-Research-Group/ChatGPT/files/11011448/theorem_proving_in_lean.pdf)
 - Chat site (ask questions here): https://leanprover.zulipchat.com
