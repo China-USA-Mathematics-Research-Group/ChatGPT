@@ -2,6 +2,8 @@
 Link: https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
 
 # ChatGPT
+## Link to Wolfram|Alpha (note: ChatGPT and Wolfram can be used together using the Wolfram plugin provided in ChatGPT): https://www.wolframalpha.com
+
 ## General suggestions for crafting prompts that elicit sophisticated responses with GPT-4 (as suggested by GPT-4!):
 
 1. Be specific: Clearly define the topic or concepts you want the model to address. This helps to narrow the scope of the response and ensures it focuses on the desired subject matter.
