@@ -2,7 +2,9 @@
 Link: https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
 
 # ChatGPT
-## Link to Wolfram|Alpha (note: ChatGPT and Wolfram can be used together using the Wolfram plugin provided in ChatGPT): https://www.wolframalpha.com
+## Plugins
+1. Link to Wolfram|Alpha (note: ChatGPT and Wolfram can be used together using the Wolfram plugin provided in ChatGPT): https://www.wolframalpha.com
+2. More coming soon!
 
 ## General suggestions for crafting prompts that elicit sophisticated responses with GPT-4 (as suggested by GPT-4!):
 
