@@ -15,11 +15,9 @@ Link: https://docs.github.com/en/get-started/writing-on-github/getting-started-w
 5. Limit word count: By specifying a word limit, you can encourage the model to be concise and prioritize the most relevant information.
 6. Remember, GPT-4's performance is still dependent on the quality of the input prompt. Experiment with different phrasings and approaches to refine the output and receive more sophisticated responses.
 
-## ChatGPT 4.0 Users' Guide for Prompt Creation
-Advanced Guide to Interacting with ChatGPT
+## Advanced Guide to Interacting with ChatGPT
 
 I asked ChatGPT-4 to create an advanced guide using the following prompt:
-
 
 > Create a fully comprehensive guide to interacting with ChatGPT specifically in the context of using effective prompts, priming, and use of personas. Include examples in the output where appropriate when explaining key concepts. The guide should help a person who is familiar with the basic concepts of prompts, priming and use of personas that is looking to gain advanced understanding of these topics to become more effective in the use of ChatGPT.
 
