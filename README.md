@@ -2,6 +2,10 @@
 Link: https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
 
 # ChatGPT
+## Virginia Todd Memorial Scholar Application (Wording could be useful for other applications)
+[Virgina_Todd_Application-2.pdf](https://github.com/China-USA-Mathematics-Research-Group/ChatGPT/files/11118670/Virgina_Todd_Application-2.pdf)
+
+
 ## Plugins
 1. Link to Wolfram|Alpha (note: ChatGPT and Wolfram can be used together using the Wolfram plugin provided in ChatGPT): https://www.wolframalpha.com
 2. More coming soon!
