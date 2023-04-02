@@ -133,6 +133,8 @@ Remember to:
 
 By implementing these advanced strategies, you will become more effective in using ChatGPT and enjoy a highly customized and valuable experience.
 
+![Screenshot 2023-04-02 at 7 37 19 PM](https://user-images.githubusercontent.com/124541337/229385162-2665fdca-7192-49d6-bde2-398e57ff97a1.png)
+
 ## ChatGPT and big models conference (Beijing, 3/21/2023)
 I’m going to summarize some of meeting (that I found pretty interesting), since I’m about to leave Beijing in an hour and before I forget too much of it. (I took lots of pictures, later I may try upload them in our GitHub.
 
