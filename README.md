@@ -223,6 +223,7 @@ I’m going to summarize some of meeting (that I found pretty interesting), sinc
 12. Interview with Geoffrey Hinton, is considered a godfather of artificial intelligence, having championed machine learning decades before it became mainstream. As chatbots like ChatGPT bring his work to widespread attention, we spoke to Hinton about the past, present and future of AI. CBS Saturday Morning's Brook Silva-Braga interviewed him at the Vector Institute in Toronto on March 1, 2023.
 Link: https://www.youtube.com/watch?v=qpoRO378qRY
 
+13. Chomsky on ChatGPT, Education, Russia and the unvaccinated. Link: https://www.youtube.com/watch?v=IgxzcOugvEI
 # Lean
 ## Theorem Proving in Lean
 - Talk to others about Lean (including Linear Algebra, ChatGPT discussion, and more): https://leanprover.zulipchat.com
