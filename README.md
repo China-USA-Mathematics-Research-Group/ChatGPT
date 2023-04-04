@@ -220,6 +220,9 @@ I’m going to summarize some of meeting (that I found pretty interesting), sinc
 - "As teachers of mathematics, our responses might range all the way from a declaration that "no computers are allowed in exams or to help with homework" to the if-you-can't-lick-'em-then-join- 'em approach (teach the students how to use their clever little computers)."
 - "Will we allow students to bring them into exams? Use them to do homework? How will the content of calculus courses be affected? Will we take the advice that we have been dispensing to teachers in the primary grades: that they should teach more of concepts and less of mechanics? What happens when $29.95 pocket computers can do all of the above and solve standard forms of differential equations, do multiple integrals, vector analysis, and what-have-you? Excuse me if I don't have answers. I wanted only to raise the questions and beat a hasty retreat."
 
+12. Interview with Geoffrey Hinton, is considered a godfather of artificial intelligence, having championed machine learning decades before it became mainstream. As chatbots like ChatGPT bring his work to widespread attention, we spoke to Hinton about the past, present and future of AI. CBS Saturday Morning's Brook Silva-Braga interviewed him at the Vector Institute in Toronto on March 1, 2023.
+Link: https://www.youtube.com/watch?v=qpoRO378qRY
+
 # Lean
 ## Theorem Proving in Lean
 - Talk to others about Lean (including Linear Algebra, ChatGPT discussion, and more): https://leanprover.zulipchat.com
