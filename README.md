@@ -5,8 +5,9 @@ Link: https://docs.github.com/en/get-started/writing-on-github/getting-started-w
 ## Virginia Todd Memorial Scholar Application (Wording could be useful for other applications)
 [Virgina_Todd_Application-2.pdf](https://github.com/China-USA-Mathematics-Research-Group/ChatGPT/files/11118670/Virgina_Todd_Application-2.pdf)
 
-## Assessing Student Work with ChatGPT
-[Youtube Video Link](https://youtu.be/OkzDcTZmzyI)
+## Tutorials/Tips
+1. [Assessing Student Work with ChatGPT--Youtube Video Link](https://youtu.be/OkzDcTZmzyI)
+2. [You’re Using ChatGPT Wrong! Here’s How to Be Ahead of 99% of ChatGPT Users | by The PyCoach | Mar, 2023 | Artificial Corner.pdf](https://github.com/China-USA-Mathematics-Research-Group/ChatGPT/files/11149747/You.re.Using.ChatGPT.Wrong.Here.s.How.to.Be.Ahead.of.99.of.ChatGPT.Users.by.The.PyCoach.Mar.2023.Artificial.Corner.pdf) 
 
 ## Plugins
 1. Link to Wolfram|Alpha (note: ChatGPT and Wolfram can be used together using the Wolfram plugin provided in ChatGPT): https://www.wolframalpha.com
