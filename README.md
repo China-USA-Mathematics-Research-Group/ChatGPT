@@ -230,6 +230,9 @@ Link: https://www.youtube.com/watch?v=qpoRO378qRY
 - Talk to others about Lean (including Linear Algebra, ChatGPT discussion, and more): https://leanprover.zulipchat.com
 - Lean Community Site: https://leanprover-community.github.io
 - The Natural Number Game (Good way to learn Lean): https://www.ma.imperial.ac.uk/~buzzard/xena/natural_number_game/
+- What's Next, after the natural number game? 
+Link: https://github.com/ImperialCollegeLondon/natural_number_game/blob/master/WHATS_NEXT.md
+Try on cocalc or Lean web editor for more challenges, Link: https://github.com/kbuzzard/xena/blob/master/Maths_Challenges/README.md
 - The real-number-game: https://github.com/ImperialCollegeLondon/real-number-game
 - The complex-number-game: https://github.com/ImperialCollegeLondon/complex-number-game
 - Link: https://xenaproject.wordpress.com/2020/05/23/the-complex-number-game/
