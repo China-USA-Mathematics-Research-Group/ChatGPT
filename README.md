@@ -261,6 +261,8 @@ Computer scientists do not understand a lot of what we as mathematical researche
 
 
 # DRAFT PROPOSAL FOR AMS REGIONAL---FRESNO, CA
+## Draft Beamer Slideshow (in Overleaf): https://www.overleaf.com/6158233452qytmpntsmcqr
+
 ## Title: ChatGPT or ChatGPA? Exploring the role of AI in problem-solving and posing
 
 ![Screenshot 2023-03-19 at 9 29 38 PM](https://user-images.githubusercontent.com/124541337/226226610-368e5c2b-6e76-462e-a99b-bf2363445713.png)
