@@ -5,6 +5,9 @@ Link: https://docs.github.com/en/get-started/writing-on-github/getting-started-w
 ## Virginia Todd Memorial Scholar Application (Wording could be useful for other applications)
 [Virgina_Todd_Application-2.pdf](https://github.com/China-USA-Mathematics-Research-Group/ChatGPT/files/11118670/Virgina_Todd_Application-2.pdf)
 
+## Web-Based Articles
+[Forget ChatGPT, Here Are New AI Tools That Will Blow Your Mind | by Nitin Sharma | The Startup | Feb, 2023 | Medium.pdf](https://github.com/China-USA-Mathematics-Research-Group/ChatGPT/files/11183379/Forget.ChatGPT.Here.Are.New.AI.Tools.That.Will.Blow.Your.Mind.by.Nitin.Sharma.The.Startup.Feb.2023.Medium.pdf)
+
 ## Tutorials/Tips
 1. [Assessing Student Work with ChatGPT--Youtube Video Link](https://youtu.be/OkzDcTZmzyI)
 2. [You’re Using ChatGPT Wrong! Here’s How to Be Ahead of 99% of ChatGPT Users | by The PyCoach | Mar, 2023 | Artificial Corner.pdf](https://github.com/China-USA-Mathematics-Research-Group/ChatGPT/files/11149747/You.re.Using.ChatGPT.Wrong.Here.s.How.to.Be.Ahead.of.99.of.ChatGPT.Users.by.The.PyCoach.Mar.2023.Artificial.Corner.pdf) 
