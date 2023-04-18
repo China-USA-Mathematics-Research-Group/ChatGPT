@@ -235,6 +235,8 @@ Link: https://www.youtube.com/watch?v=qpoRO378qRY
 
 16. [The Future of Mathematics](https://www.youtube.com/watch?v=Dp-mQ3HxgDE)
 
+17. [What Computers Can't Do](https://www.youtube.com/watch?v=jQPb7DRMoZY)
+
 # Lean
 ## Theorem Proving in Lean
 - Talk to others about Lean (including Linear Algebra, ChatGPT discussion, and more): https://leanprover.zulipchat.com
