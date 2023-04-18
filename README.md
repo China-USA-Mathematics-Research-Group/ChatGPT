@@ -1,5 +1,46 @@
-# Formatting Syntax for github readme files
-Link: https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
+# Articles and Videos
+1. The future of mathematics? Link: https://www.ma.imperial.ac.uk/~buzzard/one_off_lectures/msr.pdf (Research slideshow)
+
+2. How will AI change mathematics? Rise of chatbots highlights discussion (Nature article) Link: https://www.nature.com/articles/d41586-023-00487-2
+- PDF Copy: [nature article.pdf](https://github.com/China-USA-Mathematics-Research-Group/ChatGPT/files/11011535/nature.article.pdf)
+
+3. Google's Minerva---Solving Maths Problems with AI: Link: https://towardsdatascience.com/googles-minerva-solving-math-problems-with-ai-4f0a6aaabaf1
+
+4. H. Bender and G. Glauberman, Local Analysis for the Odd Order Theorem, Cambridge University Press, 1994.
+
+5. S. Gouezel and V. Shchur, A corrected quantitative version of the Morse lemma, J. Funct. Anal. 277 (2019) 1248–1258.
+
+6. T. Peterfalvi, Character Theory for the Odd Order Theorem, Cambridge University Press, 2000.
+
+7. Exploring the Potential of AI in Education: Thoughts on “Open Book, Open AI” Examinations Link: https://www.zinkerz.com/2023/01/27/exploring-the-potential-of-ai-in-education/
+
+8. How Will AI Change Mathematics? (Castelvecchi---March 2, 2023) Link: https://github.com/China-USA-Mathematics-Research-Group/ChatGPT/blob/d18bad32a48d0d2cf062f709e1bf26e4e4248673/How%20Will%20AI%20Change%20Mathematics.pdf
+- AI tools already help formulate new theories and solve problems. But they’re set to shake up maths even more.
+
+9. GeoGebra+ChatGPT Video Demo Youtube link: https://www.youtube.com/watch?v=n8P0SaOvKhM (loads fast, but might require VPN)
+
+10. Should Students Learn Integration Rules? (Buchberger, 1989) Link: https://dl.acm.org/doi/pdf/10.1145/382276.1095228
+- Note: This is the article that introduced the idea of "Black Box, White Box"
+
+11. The Disk with a College Education (Herbert Wilf, 1982)
+- Direct link to PDF: [2320988.pdf](https://github.com/China-USA-Mathematics-Research-Group/ChatGPT/files/11053210/2320988.pdf)
+- I was a first-year high school student when this was published. I wish my teacher would have read this article!
+- "As teachers of mathematics, our responses might range all the way from a declaration that "no computers are allowed in exams or to help with homework" to the if-you-can't-lick-'em-then-join- 'em approach (teach the students how to use their clever little computers)."
+- "Will we allow students to bring them into exams? Use them to do homework? How will the content of calculus courses be affected? Will we take the advice that we have been dispensing to teachers in the primary grades: that they should teach more of concepts and less of mechanics? What happens when $29.95 pocket computers can do all of the above and solve standard forms of differential equations, do multiple integrals, vector analysis, and what-have-you? Excuse me if I don't have answers. I wanted only to raise the questions and beat a hasty retreat."
+
+12. Interview with Geoffrey Hinton, is considered a godfather of artificial intelligence, having championed machine learning decades before it became mainstream. As chatbots like ChatGPT bring his work to widespread attention, we spoke to Hinton about the past, present and future of AI. CBS Saturday Morning's Brook Silva-Braga interviewed him at the Vector Institute in Toronto on March 1, 2023.
+Link: https://www.youtube.com/watch?v=qpoRO378qRY
+
+13. Chomsky on ChatGPT, Education, Russia and the unvaccinated. Link: https://www.youtube.com/watch?v=IgxzcOugvEI
+
+14. [Computers and Mathematics.pdf](https://github.com/China-USA-Mathematics-Research-Group/ChatGPT/files/11256824/Computers.and.Mathematics.pdf)
+
+15. Proving theorems with computers [rnoti-p1791.pdf](https://github.com/China-USA-Mathematics-Research-Group/ChatGPT/files/11256828/rnoti-p1791.pdf)
+
+16. [The Future of Mathematics](https://www.youtube.com/watch?v=Dp-mQ3HxgDE)
+
+17. [What Computers Can't Do](https://www.youtube.com/watch?v=jQPb7DRMoZY)
+
 
 # ChatGPT
 ## Virginia Todd Memorial Scholar Application (Wording could be useful for other applications)
@@ -193,49 +234,6 @@ I’m going to summarize some of meeting (that I found pretty interesting), sinc
 - Chinese “AI-games” demo
 
 ![smaller_image](https://user-images.githubusercontent.com/124541337/227269426-5170dceb-9b64-41d3-a2a7-580dbe4d2156.jpg)
-
-# Articles and Videos
-1. The future of mathematics? Link: https://www.ma.imperial.ac.uk/~buzzard/one_off_lectures/msr.pdf (Research slideshow)
-
-2. How will AI change mathematics? Rise of chatbots highlights discussion (Nature article) Link: https://www.nature.com/articles/d41586-023-00487-2
-- PDF Copy: [nature article.pdf](https://github.com/China-USA-Mathematics-Research-Group/ChatGPT/files/11011535/nature.article.pdf)
-
-3. Google's Minerva---Solving Maths Problems with AI: Link: https://towardsdatascience.com/googles-minerva-solving-math-problems-with-ai-4f0a6aaabaf1
-
-4. H. Bender and G. Glauberman, Local Analysis for the Odd Order Theorem, Cambridge University Press, 1994.
-
-5. S. Gouezel and V. Shchur, A corrected quantitative version of the Morse lemma, J. Funct. Anal. 277 (2019) 1248–1258.
-
-6. T. Peterfalvi, Character Theory for the Odd Order Theorem, Cambridge University Press, 2000.
-
-7. Exploring the Potential of AI in Education: Thoughts on “Open Book, Open AI” Examinations Link: https://www.zinkerz.com/2023/01/27/exploring-the-potential-of-ai-in-education/
-
-8. How Will AI Change Mathematics? (Castelvecchi---March 2, 2023) Link: https://github.com/China-USA-Mathematics-Research-Group/ChatGPT/blob/d18bad32a48d0d2cf062f709e1bf26e4e4248673/How%20Will%20AI%20Change%20Mathematics.pdf
-- AI tools already help formulate new theories and solve problems. But they’re set to shake up maths even more.
-
-9. GeoGebra+ChatGPT Video Demo Youtube link: https://www.youtube.com/watch?v=n8P0SaOvKhM (loads fast, but might require VPN)
-
-10. Should Students Learn Integration Rules? (Buchberger, 1989) Link: https://dl.acm.org/doi/pdf/10.1145/382276.1095228
-- Note: This is the article that introduced the idea of "Black Box, White Box"
-
-11. The Disk with a College Education (Herbert Wilf, 1982)
-- Direct link to PDF: [2320988.pdf](https://github.com/China-USA-Mathematics-Research-Group/ChatGPT/files/11053210/2320988.pdf)
-- I was a first-year high school student when this was published. I wish my teacher would have read this article!
-- "As teachers of mathematics, our responses might range all the way from a declaration that "no computers are allowed in exams or to help with homework" to the if-you-can't-lick-'em-then-join- 'em approach (teach the students how to use their clever little computers)."
-- "Will we allow students to bring them into exams? Use them to do homework? How will the content of calculus courses be affected? Will we take the advice that we have been dispensing to teachers in the primary grades: that they should teach more of concepts and less of mechanics? What happens when $29.95 pocket computers can do all of the above and solve standard forms of differential equations, do multiple integrals, vector analysis, and what-have-you? Excuse me if I don't have answers. I wanted only to raise the questions and beat a hasty retreat."
-
-12. Interview with Geoffrey Hinton, is considered a godfather of artificial intelligence, having championed machine learning decades before it became mainstream. As chatbots like ChatGPT bring his work to widespread attention, we spoke to Hinton about the past, present and future of AI. CBS Saturday Morning's Brook Silva-Braga interviewed him at the Vector Institute in Toronto on March 1, 2023.
-Link: https://www.youtube.com/watch?v=qpoRO378qRY
-
-13. Chomsky on ChatGPT, Education, Russia and the unvaccinated. Link: https://www.youtube.com/watch?v=IgxzcOugvEI
-
-14. [Computers and Mathematics.pdf](https://github.com/China-USA-Mathematics-Research-Group/ChatGPT/files/11256824/Computers.and.Mathematics.pdf)
-
-15. Proving theorems with computers [rnoti-p1791.pdf](https://github.com/China-USA-Mathematics-Research-Group/ChatGPT/files/11256828/rnoti-p1791.pdf)
-
-16. [The Future of Mathematics](https://www.youtube.com/watch?v=Dp-mQ3HxgDE)
-
-17. [What Computers Can't Do](https://www.youtube.com/watch?v=jQPb7DRMoZY)
 
 # Lean
 ## Theorem Proving in Lean
