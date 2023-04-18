@@ -228,6 +228,9 @@ I’m going to summarize some of meeting (that I found pretty interesting), sinc
 Link: https://www.youtube.com/watch?v=qpoRO378qRY
 
 13. Chomsky on ChatGPT, Education, Russia and the unvaccinated. Link: https://www.youtube.com/watch?v=IgxzcOugvEI
+
+14. [Computers and Mathematics.pdf](https://github.com/China-USA-Mathematics-Research-Group/ChatGPT/files/11256824/Computers.and.Mathematics.pdf)
+
 # Lean
 ## Theorem Proving in Lean
 - Talk to others about Lean (including Linear Algebra, ChatGPT discussion, and more): https://leanprover.zulipchat.com
