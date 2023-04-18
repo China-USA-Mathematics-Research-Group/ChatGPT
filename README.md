@@ -233,6 +233,7 @@ Link: https://www.youtube.com/watch?v=qpoRO378qRY
 
 15. Proving theorems with computers [rnoti-p1791.pdf](https://github.com/China-USA-Mathematics-Research-Group/ChatGPT/files/11256828/rnoti-p1791.pdf)
 
+16. [The Future of Mathematics](https://www.youtube.com/watch?v=Dp-mQ3HxgDE)
 
 # Lean
 ## Theorem Proving in Lean
