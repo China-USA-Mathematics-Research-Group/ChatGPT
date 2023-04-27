@@ -1,3 +1,20 @@
+# DRAFT PROPOSAL FOR AMS REGIONAL---FRESNO, CA
+## Draft Beamer Slideshow (in Overleaf): https://www.overleaf.com/6158233452qytmpntsmcqr
+
+## Title: ChatGPT or ChatGPA? Exploring the role of AI in problem-solving and posing
+
+![Screenshot 2023-03-19 at 9 29 38 PM](https://user-images.githubusercontent.com/124541337/226226610-368e5c2b-6e76-462e-a99b-bf2363445713.png)
+
+Source: John McSmith
+
+- In the following session, an algebraist (Zheng Yang) and a mathematics educator (Todd Edwards) explore classic recreational mathematics tasks (e.g., Lewis Carroll's Cats and Rats Problem) using ChatGPT and GeoGebra. 
+
+- As others have noted, ChatGPT is a language tool, not a computational engine. As such, ChatGPT generates genuinely interesting results when asked to solve mathematical tasks. "ChatGPT sometimes delivers insightful answers that would be a credit to an excellent Ph.D. student. Other times, however, it makes idiotic and obnoxious mistakes" (Thagard, 2023). Drawing on a vast collection of writing samples, ChatGPT relies on pattern recognition to predict what utterances are most probable. These writing samples include incorrect results that are, in turn, reflected in ChatGPT responses. 
+
+- Critics of ChatGPT (and AI, in general) point to faulty responses as evidence that ChatGPT has no place in learning classrooms. Such criticisms mistake ChatGPT as an answer generator (i.e., "ChatGPA") rather than as a learning partner---one that requires a human capable of asking useful questions in order to generate productive responses. Herein lies our challenge---First, to empower our students to ask more and better questions; and, Secondly, to help students learn how to communicate productively with the AI.
+
+- In our interactive session, we'll wrestle with these ideas as we engage ChatGPT as a learning partner. We'll ask ChatGPT to respond to audience-generated questions. We'll generate code and incorporate it in sample GeoGebra sketches. Moreover, we'll brainstorm ways to help our students learn how to communicate with AI productively, in order to build conceptual understanding of the mathematics they are studying. At the end of the session, participants will have: (1) a better understanding of ChatGPT, including its strengths and limitations; (2) a better sense of how to engage ChatGPT to generate productive output; and (3) ideas for incorporating ChatGPT with students in their own classrooms. 
+
 # Articles and Videos
 1. The future of mathematics? Link: https://www.ma.imperial.ac.uk/~buzzard/one_off_lectures/msr.pdf (Research slideshow)
 
@@ -268,21 +285,3 @@ Humans are good at forgetting to go back and fill in these details. Lean will no
 Already computer scientists are trying to develop tools which can actually do mathematics better than humans. They want to train their AI on databases — but these databases are few and far between, and several of the databases which are used in practice are databases of solutions to gigantic logic puzzles which bear no relation to modern mathematics. I believe that it is up to us as a community to explain to computer scientists what we are actually doing, in a format which is more useful to them than tens of thousands of arXiv preprints where we use words like “normal” and “complete” to mean five different things and where we write in the idiomatic and bizarre English language, thus adding another layer of obfuscation to the material. Formalisation solves this problem — it makes us say what we mean in a clear and coherent manner. This is what these people need to make tools for us — and we are not giving it to them. Mathematicians do not seem to have any desire to formalise a proof of Fermat’s Last Theorem, however computer scientists are desperate to train their AI’s on a formalised proof, to see how much further they can take things. If any mathematician reading this decides that they would be interested in taking up the challenge of formalising the statement of one of their theorems in Lean, then they can find me at the Zulip lean chat.
 
 Computer scientists do not understand a lot of what we as mathematical researchers do, or how we do it. Let’s tell them in their own language, and see what happens next. Computer scientists have developed tools which can eat mathematics, but until these tools get more self-sufficient they will need to be hand-fed. It will be very interesting to see what these tools become as they grow.
-
-
-# DRAFT PROPOSAL FOR AMS REGIONAL---FRESNO, CA
-## Draft Beamer Slideshow (in Overleaf): https://www.overleaf.com/6158233452qytmpntsmcqr
-
-## Title: ChatGPT or ChatGPA? Exploring the role of AI in problem-solving and posing
-
-![Screenshot 2023-03-19 at 9 29 38 PM](https://user-images.githubusercontent.com/124541337/226226610-368e5c2b-6e76-462e-a99b-bf2363445713.png)
-
-Source: John McSmith
-
-- In the following session, an algebraist (Zheng Yang) and a mathematics educator (Todd Edwards) explore classic recreational mathematics tasks (e.g., Lewis Carroll's Cats and Rats Problem) using ChatGPT and GeoGebra. 
-
-- As others have noted, ChatGPT is a language tool, not a computational engine. As such, ChatGPT generates genuinely interesting results when asked to solve mathematical tasks. "ChatGPT sometimes delivers insightful answers that would be a credit to an excellent Ph.D. student. Other times, however, it makes idiotic and obnoxious mistakes" (Thagard, 2023). Drawing on a vast collection of writing samples, ChatGPT relies on pattern recognition to predict what utterances are most probable. These writing samples include incorrect results that are, in turn, reflected in ChatGPT responses. 
-
-- Critics of ChatGPT (and AI, in general) point to faulty responses as evidence that ChatGPT has no place in learning classrooms. Such criticisms mistake ChatGPT as an answer generator (i.e., "ChatGPA") rather than as a learning partner---one that requires a human capable of asking useful questions in order to generate productive responses. Herein lies our challenge---First, to empower our students to ask more and better questions; and, Secondly, to help students learn how to communicate productively with the AI.
-
-- In our interactive session, we'll wrestle with these ideas as we engage ChatGPT as a learning partner. We'll ask ChatGPT to respond to audience-generated questions. We'll generate code and incorporate it in sample GeoGebra sketches. Moreover, we'll brainstorm ways to help our students learn how to communicate with AI productively, in order to build conceptual understanding of the mathematics they are studying. At the end of the session, participants will have: (1) a better understanding of ChatGPT, including its strengths and limitations; (2) a better sense of how to engage ChatGPT to generate productive output; and (3) ideas for incorporating ChatGPT with students in their own classrooms. 
