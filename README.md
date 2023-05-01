@@ -1,5 +1,9 @@
 # DRAFT PROPOSAL FOR AMS REGIONAL---FRESNO, CA
 ## Draft Beamer Slideshow (in Overleaf): https://www.overleaf.com/6158233452qytmpntsmcqr
+## Practice Presentation (Monday, May 1---Mathematics Education Committee Meeting, Miami University) 
+- Video: https://www.youtube.com/watch?v=BnARjQ4D_rA
+- Transcript: https://drive.google.com/file/d/1wuLwN6i53iLBVLBdmNwbqj-2-ZAeCSY2/view?usp=sharing
+- Audio: https://drive.google.com/file/d/1589bkvS07c5EQHMX6694xqxugE1XR6LI/view?usp=sharing
 
 ## Title: ChatGPT or ChatGPA? Exploring the role of AI in problem-solving and posing
 
