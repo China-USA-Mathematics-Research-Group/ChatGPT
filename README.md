@@ -1,7 +1,8 @@
 # Tuto Todd Zheng ChatGPT Project 
-## Homework for June 4
+## Homework for June 5
 - Zheng and Todd review Tuto's slideshow and brainstorm ways to modify the activity using AI (https://docs.google.com/presentation/d/1uh_F2zMk6QpHTD5-iA7CEfbV8fgLUgEMmIkAFx1xUac/edit#slide=id.p)
 - Zheng, Todd, and Tuto mess around in the GPT Playground and attempt to figure out how to modify code or have an application call the ChatGPT API
+- 
 
 # DRAFT PROPOSAL FOR AMS REGIONAL---FRESNO, CA
 ## Draft Beamer Slideshow (in Overleaf): https://www.overleaf.com/6158233452qytmpntsmcqr
