@@ -4,7 +4,7 @@
 - Zheng, Todd, and Tuto mess around in the GPT Playground and attempt to figure out how to modify code or have an application call the ChatGPT API
 ## Fibonacci Spiral Finder
 - GeoGebra Sketch: https://stage.geogebra.org/m/crhm3kxj
-- Python Code (very rough): [fibonacci_detection_interactivev5.py.zip](https://github.com/China-USA-Mathematics-Research-Group/ChatGPT/files/11657477/fibonacci_detection_interactivev5.py.zip)
+- Python Code (very rough, need to unzip first): [fibonacci_detection_interactivev5.py.zip](https://github.com/China-USA-Mathematics-Research-Group/ChatGPT/files/11657477/fibonacci_detection_interactivev5.py.zip)
 
 
 # DRAFT PROPOSAL FOR AMS REGIONAL---FRESNO, CA
